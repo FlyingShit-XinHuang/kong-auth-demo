@@ -75,7 +75,7 @@ $ curl -i -XPOST localhost:8001/apis/demo/plugins \
 ```
 
 My another project 'auth-server' could be used as an auth server. The 'auth_server_url' could
-be 'http://<your server ip>:18080/info'.
+be 'http://&lt;your server ip&gt;:18080/info'.
 
 The resource API is protected now:
 
