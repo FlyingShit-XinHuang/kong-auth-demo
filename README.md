@@ -16,7 +16,7 @@ image as following:
 
 ### Start containers
 
-Start a Cassandra contaienr:
+Start a Cassandra container:
 
 ```
 $ docker run -d --name kong-database -p 9042:9042 cassandra:3.10
