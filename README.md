@@ -74,7 +74,7 @@ $ curl -i -XPOST localhost:8001/apis/demo/plugins \
     --data 'config.auth_server_url=<URL of verification API>'
 ```
 
-My another project 'auth-server' could be used as an auth server. The 'auth_server_url' could
+My another project [auth-server](https://github.com/FlyingShit-XinHuang/auth-server) could be used as an auth server. The 'auth_server_url' could
 be 'http://&lt;your server ip&gt;:18080/info'.
 
 The resource API is protected now:
